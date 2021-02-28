@@ -1,0 +1,73 @@
+/* ALL */
+.foto-perfil {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+.p{
+    font-family:'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color:black;
+}
+.lista {
+    list-style: none;
+}
+.icones{
+    padding-left: 25px;
+}
+.titulosBrancos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:white;
+}
+.titulosVerdes{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:#18bc9c;
+}
+/* Nav bar */
+.barra{
+    background-color:#280a45;
+    border-bottom: solid;
+    border-color: rgb(24, 23, 23);
+}
+/* Section */
+section:nth-child(odd),.modifier-h2{
+    background-color: #3b1c5f;
+    border-radius: 250px;
+}
+/* padding photo */
+section{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+/* WHITE */
+.white{
+    background-color: white;
+}
+/* Imagem de Fundo na foto */
+.section-image-background{
+    background-image: url("/Teste_Portifolio/css/images/web.png");
+    /* background-position: 30% 45%; */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 0px;
+}
+/* Espaçamento titulo */
+.espaçamento{
+    padding-top: 100px;
+}
+/* cor branco */
+.troca-cor{
+    color: white;
+}
+/* copyright */
+.copyright-nivelamento{
+    text-align: center;
+}
